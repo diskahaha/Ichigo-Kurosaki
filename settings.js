@@ -11,7 +11,7 @@ const chalk = require('chalk')
 //Ubah Disini
 global.ownerNumber = ['6281296347598','62821220876725','0']
 global.ownerName = '𝕭𝖔𝖙 • Andii ༢࿔ྀ X C-𝐳𝔲𝔩𝔭𝔞'
-global.packname = '𝕭𝖔𝖙 • Andii ༢࿔ྀ X C-𝐳𝔲𝔩𝔭𝔞'
+global.packname = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
 global.author = 'Whatsapp Bot 2022'
 global.prefa = ['','!','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi'
@@ -23,8 +23,8 @@ botAdmin: 'Bot Not Admin!',
 botOwner: 'You Are Not My Owner!',
 group: 'Only Group!',
 private: 'Only Private Chat',
-wait: 'Loanjink...',
-done: 'Done!'
+wait: 'Sabar Lah Kmtd...',
+done: 'Done Kmtl!'
 }
 
 //Sesuaikan
