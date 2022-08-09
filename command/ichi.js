@@ -188,7 +188,6 @@ case 'menu': case 'help': case '?': {
 ╠ ${prefix}setppbot
 ╠ ${prefix}self
 ╠ ${prefix}public
-╠ ${prefix}eval
 ╚════════
   
 ╔════════
@@ -198,8 +197,6 @@ case 'menu': case 'help': case '?': {
 ╠ ${prefix}antiviewone
 ╠ ${prefix}linkgroup
 ╠ ${prefix}revoke
-╠ ${prefix}kick
-╠ ${prefix}add
 ╠ ${prefix}promote
 ╠ ${prefix}demote
 ╠ ${prefix}setname
@@ -236,9 +233,6 @@ case 'menu': case 'help': case '?': {
 ╔════════
 ╠══ *OTHER MENU*
 ╠ ${prefix}delete
-╠ ${prefix}donasi
-╠ ${prefix}sewa
-╠ ${prefix}sc
 ╠ ${prefix}owner
 ╠ ${prefix}ping
 ╠ ${prefix}menu / ${prefix}help / ${prefix}?
@@ -251,10 +245,11 @@ case 'menu': case 'help': case '?': {
 ╠ ${prefix}ytmp3
 ╠ ${prefix}ytmp4
 ╚════════
+𝕭𝖔𝖙 • Andii ༢࿔ྀ
   `
   let but = [
-  {urlButton: {displayText: 'Source Code ♨️',url: 'https://github.com/NzrlAfndi/Ichigo-Kurosaki'}}, 
-  {urlButton: {displayText: 'Website 🔗',url: 'https://linktr.ee/nzrlafndi'}}, 
+  {urlButton: {displayText: 'Source Code ♨️',url: 'https://hentai.com'}}, 
+  {urlButton: {displayText: 'Website 🔗',url: 'https://xnxx.com'}}, 
   {"quickReplyButton": {"displayText": "Donasi 🗂️","id": `donasi`},},
   {"quickReplyButton": {"displayText": "Owner 👦","id": "owner"},},
   {"quickReplyButton": {"displayText": "Status Bot ⌚","id": `ping`}}
@@ -274,7 +269,7 @@ Rental Bot Prices :
   }
   break
 case 'sc': case 'sourcecode': case 'script': {
-  m.reply('*Script Berasal Dari :* https://github.com/nzrlafndi/ichigo-kurosaki\n\nJangan Lupa Bintang nya!')
+  m.reply('*Script Berasal Dari :* https://hentai.com\n\nJangan Lupa Bintang nya!')
   }
   break
 case 'owner': {
